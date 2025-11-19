@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hey, I'm Abhi – a passionate developer on a mission to build cool, impactful projects!<br>From brainstorming wild ideas to bringing them to life in code, I love every part of the dev journey. Join me as I explore new tech, tackle exciting challenges, and share what I learn along the way. Let’s build something awesome together! 💻
+🚀 Hey, I'm Ritesh – a passionate developer on a mission to build cool, impactful projects!<br>From brainstorming wild ideas to bringing them to life in code, I love every part of the dev journey. Join me as I explore new tech, tackle exciting challenges, and share what I learn along the way. Let’s build something awesome together! 💻
 
 
 ## 🌐 Socials:
