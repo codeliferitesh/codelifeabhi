@@ -23,7 +23,7 @@
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Classicharsh&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeliferitesh&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 
