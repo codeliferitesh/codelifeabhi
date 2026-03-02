@@ -21,7 +21,10 @@
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codeliferitesh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Classicharsh&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 
 ## 🏆 GitHub Trophies
