@@ -27,8 +27,12 @@
 </p>
 
 
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codeliferitesh&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codeliferitesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+   ![](https://github-trophies.vercel.app/?username=codeliferitesh&theme=onedark)
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
