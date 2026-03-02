@@ -14,16 +14,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Classicharsh&theme=tokyonight&hide_border=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyocodeliferiteshnight&hide_border=true" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Classicharsh&layout=compact&theme=tokyonight&hide_border=true" />
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codeliferitesh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Classicharsh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codeliferitesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
