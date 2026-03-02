@@ -14,12 +14,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyocodeliferiteshnight&hide_border=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeliferitesh&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codeliferitesh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 
